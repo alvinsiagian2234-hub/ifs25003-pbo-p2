@@ -1,0 +1,8 @@
+# Hasil compile (javac -d output ...)
+output/
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.iml
